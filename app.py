@@ -10,7 +10,7 @@ app = Flask(__name__)
 log_file = "take_a_test.log"
 
 protocol = "https"
-server_host = "example.com"
+server_host = "takeatest-bgc2fgcca4dae9as.westeurope-01.azurewebsites.net"
 port = 443
 
 if port == 80 or port == 443:
